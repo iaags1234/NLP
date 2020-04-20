@@ -9,5 +9,5 @@
 ## 참고사항
 * <자연어처리 쿡북 with 파이썬> 책 참고
 * 코드는 파이썬3 기준
-* 본래 구글 드라이브에 올렸으나, 깃허브에도 새로 올림
+* 본래 구글 드라이브를 사용했으나, 스터디가 종료되어 깃허브에도 새로 업로드
   (https://drive.google.com/drive/folders/1d_vvJjknM49bJAZHDkrV5ViRhTjQQmgU?usp=sharing)
